@@ -18,3 +18,7 @@
 // .exit : command to exit REPL, alternatively use Ctrl+C twice.
 
 // Node comes with pre-built Modules(bunch of libraries)
+
+// Steps to setup node.
+// Create new directory and add new JS file
+// Run npm init command and install required modules.
