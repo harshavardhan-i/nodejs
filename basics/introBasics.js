@@ -3,7 +3,7 @@
 // It is scalable and really fast.
 
 // Node JS allows javascript to run outside of browsers.
-// With node JS we can intearch directly with the hardware of computer/servers.
+// With node JS we can interact directly with the hardware of computer/servers.
 // Helps build apps like atom editor.
 
 // Below command helps check version of node.
@@ -20,5 +20,6 @@
 // Node comes with pre-built Modules(bunch of libraries)
 
 // Steps to setup node.
-// Create new directory and add new JS file
-// Run npm init command and install required modules.
+// 1. Create new directory and add new JS file
+// 2. Run npm init command - Creates package.json 
+// 3. Install external modules if required - Create package-lock.json & node_modules.

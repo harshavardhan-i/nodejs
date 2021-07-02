@@ -6,12 +6,12 @@ const fs = require("fs");
 fs.copyFileSync("introBasics.js", "tempIntro.js");
 
 // Modules can be Internal or external.
-// NPM - Node package manager, handles external packages.
-// NPM is bundeled with node, installing node will install NPM.
+// NPM: Node package manager - handles external packages.
+// NPM is bundeled along with node, installing node will install NPM.
 // NPM packages are reusable code.
 // npm init: initializes and creates package.json
 // package.json - description of npm packages within project, dependencies etc.
-// fileName.json - File format 
+// fileName.json - JSON file format 
 
 // External package:
 // Look for packages in npmjs.org, install using npm and read docs to use.
