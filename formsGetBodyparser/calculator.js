@@ -1,3 +1,4 @@
+// Require external libraries 
 const express = require("express");
 const bodyParser = require("body-parser");
 
@@ -10,7 +11,7 @@ app.use(bodyParser.urlencoded({extended: true}));
 // Define Get:
 // To send index.html we use sendFile method
 // To get path within cloud servers use __dirname
-//  __dirname gives the folder of current file
+//  __dirname gives file path of current folder within server.
 app.get("/", function(req, res){
     console.log(`Current folder => ${__dirname}`);
     res.sendFile(__dirname + "/index.html");

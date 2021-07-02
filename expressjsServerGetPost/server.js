@@ -1,4 +1,4 @@
-// Express.js is a frame work for node.
+// Express.js is a framework for node.
 // Node is a low level language, interacts with computer hardware direclty.
 // Express.js is node is like jQuery is to Javascript
 
