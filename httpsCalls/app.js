@@ -1,8 +1,8 @@
 // https: A native/internal module within node to make http call to api
 https = require("https");
 // External module.
-express = require("express");
-bodyParser = require("body-parser");
+const express = require("express");
+const bodyParser = require("body-parser");
 
 app = express();
 app.use(bodyParser.urlencoded({ extended: true }));
