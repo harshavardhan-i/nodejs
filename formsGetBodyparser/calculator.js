@@ -1,3 +1,4 @@
+// Install and use nodemon module - Helps with rerunning server on file save.
 // Require external libraries 
 const express = require("express");
 const bodyParser = require("body-parser");

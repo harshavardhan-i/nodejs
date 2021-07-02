@@ -1,9 +1,9 @@
 # nodejs
 Read order:
     1. Basics
-    2. Forms, GET, Body parser
-    4. Express.js, Server, GET, POST
-    5. Https Calls
+    2. Express.js, Server, GET, POST
+    3. Forms, GET, Body parser
+    4. Https Calls
 
 URL: 
 Node APIs: https://nodejs.org/api/
