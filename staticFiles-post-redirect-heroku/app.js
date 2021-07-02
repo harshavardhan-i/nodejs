@@ -87,10 +87,5 @@ app.listen(process.env.PORT || 3000, function(){
 // Setup Procfile and add web: node app.js
 // Run cmd: heroku create
 
-// API key
-// cc921e47d6033249298771975bd79c58-us6
-
-// Audience id
-// a94a225681
 
 
