@@ -21,5 +21,6 @@
 
 // Steps to setup node.
 // 1. Create new directory and add new JS file
-// 2. Run npm init command - Creates package.json 
+// 2. cmd: npm init - Creates package.json
+//      cmd: npm init -y - Creates all and says yes to all. 
 // 3. Install external modules if required - Create package-lock.json & node_modules.
