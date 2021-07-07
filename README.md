@@ -3,8 +3,8 @@
  2. Express.js, Server, GET, POST
  3. Forms, GET, Body parser
  4. Https Calls
- 5. Static files, post, redirect.
- 6. Templating
+ 5. Static files, post, redirect, heroku
+ 6. Templating, EJS, Layout, Export
 
 ## URL: 
  - Node APIs: https://nodejs.org/api/
